@@ -1,0 +1,15 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250514.0",
+    "wrangler": "^4.14.4"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.5.0",
+    "node-cron": "^4.0.6",
+    "node-fetch": "^3.3.2"
+  }
+}

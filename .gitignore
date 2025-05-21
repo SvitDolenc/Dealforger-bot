@@ -1,0 +1,4 @@
+node_modules
+.env
+previousResponse.json
+.DS_Store
