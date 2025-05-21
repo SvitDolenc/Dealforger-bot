@@ -69,4 +69,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact [Your Name] at [your.email@example.com].
+For any inquiries, please contact Svit Dolenc at svit.dolenc1@gmail.com
